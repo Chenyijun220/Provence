@@ -1,0 +1,13 @@
+{
+  "Title": "Arknights-Provence",
+  "Type": "content",
+  "Org": "ibrs",
+  "Ident": "arknights_provence",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null
+}
